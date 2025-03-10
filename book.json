@@ -1,0 +1,11 @@
+{
+    "plugins": ["utterances"],
+    "pluginsConfig": {
+      "utterances": {
+        "repo": "gsenrdx52g/gsenr_elearning",
+        "issue-term": "pathname",
+        "theme": "github-light"
+      }
+    }
+  }
+  
